@@ -7,5 +7,7 @@
 ## Form
 ## Ref
 ## Firebase
+## Sent HTTP POST request using fetch
+## useHistory Hook
 ## Send HTTP requests
 ## Application wide state management
