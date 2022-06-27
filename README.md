@@ -11,4 +11,5 @@
 ## useHistory
 ## useState
 ## Send HTTP GET requests
+## useEffect
 ## Application wide state management
