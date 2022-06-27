@@ -8,6 +8,7 @@
 ## Ref
 ## Firebase
 ## Sent HTTP POST request using fetch
-## useHistory Hook
-## Send HTTP requests
+## useHistory
+## useState
+## Send HTTP GET requests
 ## Application wide state management
