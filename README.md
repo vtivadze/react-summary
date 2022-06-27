@@ -12,4 +12,7 @@
 ## useState
 ## Send HTTP GET requests
 ## useEffect
+## State Lifting
+## Context
+## Update State depending on previous State
 ## Application wide state management
